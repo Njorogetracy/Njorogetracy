@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hope Tracy</h1>
 <h3 align="center">A software development student</h3>
 
-- 🌱 I’m currently learning **Jquery, Django, Flask**
+- 🌱 I’m currently learning **React, Django REST Framework**
 
 - ⚡ Fun fact **I love trying new things**
 
