@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hope</h1>
 <h3 align="center">I am a software development student at Code Institute</h3>
 
-- 🔭 I’m currently working on [managey_drfi](https://github.com/Njorogetracy/managey_drf)
+- 🔭 I’m currently working on a productivity app that utilizes React for the frontend and Django for the backend. [Backend Repo](https://github.com/Njorogetracy/managey_drf), [Frontend REpo](https://github.com/Njorogetracy/managey)
 
-- 🌱 I’m currently learning **React Framework, Django REST Framework**
+- 🌱 I’m currently learning **React and Django REST Frameworks** to build my knowledge on how to design user friendly web applications
 
 - 👨‍💻 All of my projects are available at [https://github.com/Njorogetracy](https://github.com/Njorogetracy)
 
